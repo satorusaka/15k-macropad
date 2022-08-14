@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Conn_01x11,PinHeader_1x11_P2.54mm_Vertical,144.93875,-99.21875,-90.0,bottom
+J2,Conn_01x04,PinHeader_1x04_P2.54mm_Horizontal,181.6,-99.21875,90.0,bottom
+U1,Pico,RPi_Pico_SMD_TH,141.5325,-75.311,90.0,bottom
