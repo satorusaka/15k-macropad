@@ -5,6 +5,7 @@ A diy, 3d-printed, 15 key (3x5), hotswap, RGB macropad.
 This repo contains gerber files for PCB, the 3D-printed parts and the QMK firmware for RPi Pico.
 
 ![skmt_15k_macropad](https://i.imgur.com/Sl6t4Lm.jpg)
+[more images](https://imgur.com/a/5BjqMy4)
 
 ## Parts Required
 
