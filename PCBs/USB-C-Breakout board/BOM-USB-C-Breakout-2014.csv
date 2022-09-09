@@ -1,0 +1,6 @@
+Comment,Designator,Footprint,LCSC
+5.1k,"R1,R2",R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C27834
+USB_C_Receptacle_USB2.0,J1,USB_C_Receptacle_XKB_U262-16XN-4BVC11,C319148
+MountingHole_Pad,H1,MountingHole_2.7mm_M2.5_ISO7380_Pad,
+MountingHole_Pad,H2,MountingHole_2.7mm_M2.5_ISO7380_Pad,
+Conn_01x06,J2,PinHeader_1x06_P2.54mm_Vertical,

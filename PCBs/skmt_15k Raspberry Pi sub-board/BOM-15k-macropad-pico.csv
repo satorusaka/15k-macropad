@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC
+MountingHole,H1,MountingHole_2.2mm_M2,
+MountingHole,H3,MountingHole_2.2mm_M2,
+MountingHole,H2,MountingHole_2.2mm_M2,
+MountingHole,H4,MountingHole_2.2mm_M2,
+Pico,U1,RPi_Pico_SMD_TH,
+Conn_01x11,J1,PinHeader_1x11_P2.54mm_Vertical,
+Conn_01x04,J2,PinHeader_1x04_P2.54mm_Horizontal,
